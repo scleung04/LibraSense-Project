@@ -3,7 +3,7 @@ void setup() {
 }
 
 void loop() {
-  int soundValue = analogRead(A2);  // read analog value from sound sensor
+  int soundValue = analogRead(A2);  // read analog value from sound sensor using the A2 pin
   Serial.println(soundValue);  // send value over serial
-  delay(100);  // wait for 100ms
+  delay(100);  // wait for 100 milliseconds
 }
