@@ -2,6 +2,10 @@
   "expo": {
     "name": "my-app",
     "slug": "my-app",
+    "plugins": [
+      "@react-native-google-signin/google-signin"
+    ],
+    "scheme": "ca.librasense.my-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,13 +22,23 @@
       "supportsTablet": true
     },
     "android": {
+      "permissions": [
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ],
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.mrforu99.myapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f1a44e10-01ab-45d2-8282-ce3ffacac305"
+      }
     }
   }
 }
