@@ -32,12 +32,12 @@ We aim to address the challenge set of Student Experience - to tackle internatio
 
 [Link to Adobe XD Wireframe Prototypes](https://xd.adobe.com/view/b5bf5070-a48e-405e-8d02-5ad25b8539c6-e0ec/)<br/>
 
-![Wireframe Prototype Screen](https://github.com/scleung04/LibraSense-Project/blob/master/Resources/Prototypes/Login_Screen.png)<br/>
-![Wireframe Prototype Screen](https://github.com/scleung04/LibraSense-Project/blob/master/Resources/Prototypes/HomePage_Screen.png)<br/>
-![Wireframe Prototype Screen](https://github.com/scleung04/LibraSense-Project/blob/master/Resources/Prototypes/ListingLibrary_Screen.png)<br/>
-![Wireframe Prototype Screen](https://github.com/scleung04/LibraSense-Project/blob/master/Resources/Prototypes/LibraryDirection_Screen.png)<br/>
-![Wireframe Prototype Screen](https://github.com/scleung04/LibraSense-Project/blob/master/Resources/Prototypes/Listing_Libarary.png)<br/>
-![Wireframe Prototype Screen](https://github.com/scleung04/LibraSense-Project/blob/master/Resources/Prototypes/Floor_Screen.png)<br/>
-!![Wireframe Prototype Screen](https://github.com/scleung04/LibraSense-Project/blob/master/Resources/Prototypes/LiveFeed_Screen.png)
+![Wireframe Prototype Screen](https://github.com/scleung04/LibraSense-Project/blob/master/Sensors/Resources/Prototypes/Login_Screen.png)<br/>
+![Wireframe Prototype Screen](https://github.com/scleung04/LibraSense-Project/blob/master/Sensors/Resources/Prototypes/HomePage_Screen.png)<br/>
+![Wireframe Prototype Screen](https://github.com/scleung04/LibraSense-Project/blob/master/Sensors/Resources/Prototypes/ListingLibrary_Screen.png)<br/>
+![Wireframe Prototype Screen](https://github.com/scleung04/LibraSense-Project/blob/master/Sensors/Resources/Prototypes/LibraryDirection_Screen.png)<br/>
+![Wireframe Prototype Screen](https://github.com/scleung04/LibraSense-Project/blob/master/Sensors/Resources/Prototypes/Listing_Libarary.png)<br/>
+![Wireframe Prototype Screen](https://github.com/scleung04/LibraSense-Project/blob/master/Sensors/Resources/Prototypes/Floor_Screen.png)<br/>
+!![Wireframe Prototype Screen](https://github.com/scleung04/LibraSense-Project/blob/master/Sensors/Resources/Prototypes/LiveFeed_Screen.png)
 
 
